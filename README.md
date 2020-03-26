@@ -20,4 +20,4 @@ To run the integration tests, enter the command:
 kitchen test
 ```
 
-![Beats logo](https://cdn.worldvectorlogo.com/logos/elastic-beats.svg)
+![Beats logo](https://www.pngfind.com/pngs/m/127-1274717_elastic-beats-logo-hd-png-download.png)
